@@ -3,4 +3,4 @@
 
 
 
-Puedes verlo si le picas    ----->  (aqui)[https://htmlpreview.github.io/?https://github.com/shampelesix/AJ-Styles-Tributepage/blob/main/index.html]  
+Puedes verlo si le picas    ----->  [aqui](https://htmlpreview.github.io/?https://github.com/shampelesix/AJ-Styles-Tributepage/blob/main/index.html)  
